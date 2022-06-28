@@ -1,1 +1,1 @@
-#These folders contain executable files for basic shell redirections in Linux
+#This folder contains executable files for basic shell redirections in Linux. There are various other formats to execute some functions in the files but I found the codes employed here to be easier and very explainable to anyone. The commits of these files are based on the tracklist of Kanye West's Donda Deluxe with exception of 102-acrostic and 103-biggest_fan (uses Two Words - a track of The College Dropout - that played while i was about to commit the file from like local repository).
